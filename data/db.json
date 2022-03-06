@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
       "firstName": "kenR6",
@@ -79,5 +79,8 @@
       "mobile": 1231313213,
       "id": 3
     }
+  ],
+  "product": [
+    
   ]
 }
