@@ -20,6 +20,13 @@
       "password": "123",
       "mobile": 1231313213,
       "id": 3
+    },
+    {
+      "fullname": "NguyenNgocHai",
+      "email": "NguyenNgocHai@gmail.com",
+      "password": "123456",
+      "mobile": 19999322456,
+      "id": 4
     }
   ],
   "RegisterUsers": [
